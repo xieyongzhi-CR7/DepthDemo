@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dissolve_Easy_My
+  m_Shader: {fileID: 4800000, guid: 5017d34aa0c7a9c40a20e17788a00325, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Gradient:
+        m_Texture: {fileID: 2800000, guid: c4db3cf0a23fe2149b85f6eaaecad1b7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 1824043d1fd92014cbbcc892bab59db7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ChangeAmount: 0
+    - _EdgeColorInte: 0.2
+    - _EdgeColorIntensity: 0.7
+    - _EdgeWidth: 0.15
+    - _Spread: 0.393
+    m_Colors:
+    - _EdgeColor: {r: 0.38679248, g: 0.36683404, b: 0.30164948, a: 1}
+  m_BuildTextureStacks: []

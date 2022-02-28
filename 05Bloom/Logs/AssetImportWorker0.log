@@ -1,0 +1,146 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.0f1c1 (1e553bf703d9) revision 1987899'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1526; Version 2009; 64bit' Language: 'zh' Physical Memory: 16249 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Z_Space/05Bloom/05Bloom
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+21137
+Successfully changed project path to: C:/Z_Space/05Bloom/05Bloom
+C:/Z_Space/05Bloom/05Bloom
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 24.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1c1 (1e553bf703d9)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Z_Space/05Bloom/05Bloom/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2182)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   30.0.14.7208
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1c1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56660
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001923 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 25.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.881 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000709 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.830 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1173 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.3 MB.
+System memory in use after: 66.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1627.
+Total: 1.790700 ms (FindLiveObjects: 0.178100 ms CreateObjectMapping: 0.050900 ms MarkObjects: 1.483600 ms  DeleteObjects: 0.076800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/CombinMesh/combineMesh.unity
+  artifactKey: Guid(d5595a9c4500e5141a1434887e0809bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CombinMesh/combineMesh.unity using Guid(d5595a9c4500e5141a1434887e0809bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b790c78eeddf5d547b72062bd5de1b13') in 0.013119 seconds
+  Import took 0.015479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.214150 seconds.
+  path: Assets/ReflectProbe
+  artifactKey: Guid(e58bcc41a3bab5445aab8bb48f620a10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ReflectProbe using Guid(e58bcc41a3bab5445aab8bb48f620a10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b3bf4843d865d66bfac9a83c1ec929') in 0.005805 seconds
+  Import took 0.015811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.921848 seconds.
+  path: Assets/StandardSurfaceShader
+  artifactKey: Guid(bfb0dc71ed4e84047882c092a280ce02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandardSurfaceShader using Guid(bfb0dc71ed4e84047882c092a280ce02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cda87c95a599d72bbe90e0a2e412f8e0') in 0.012742 seconds
+  Import took 0.014842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.571551 seconds.
+  path: Assets/Tree_Textures
+  artifactKey: Guid(2147e87acd0b538449c2ac9edb0a7358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree_Textures using Guid(2147e87acd0b538449c2ac9edb0a7358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a66882f9ffc7222de8f7dc14e25ea39') in 0.013182 seconds
+  Import took 0.015204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.398012 seconds.
+  path: Assets/WorldPos
+  artifactKey: Guid(9a96de30d29241f4ca2fdc20e2b2c220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldPos using Guid(9a96de30d29241f4ca2fdc20e2b2c220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fab3a05594435976befcc65b3a9cdba5') in 0.012709 seconds
+  Import took 0.014874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.259161 seconds.
+  path: Assets/WorldPos/worldPos.unity
+  artifactKey: Guid(82673e3779a19fd4699258348a56dc6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldPos/worldPos.unity using Guid(82673e3779a19fd4699258348a56dc6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5750b34767ffac0984a2b64781150946') in 0.005907 seconds
+  Import took 0.007897 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000864 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.757 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1129 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.2 MB.
+System memory in use after: 63.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1630.
+Total: 1.368200 ms (FindLiveObjects: 0.147800 ms CreateObjectMapping: 0.039100 ms MarkObjects: 1.167500 ms  DeleteObjects: 0.012800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

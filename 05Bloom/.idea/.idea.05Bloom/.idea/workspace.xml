@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60816bf7-eae7-413d-b1bb-597949cde0c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Edge_ChangeColor/Edge_ChangeColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombinMesh/combineMesh.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Edge_ChangeColor/Edge_ChangeColor.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FlowMap/FlowMap_code.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Depth_Demo/DepthDemo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Depth_Demo/Depth_Demo.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StandardSurfaceShader/surface_UnityDemo/SurfaceShader02.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FootPrint_JiaoYin/DrawLine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Common/Unit2D.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombinMesh/benghuai/benghuai.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombinMesh/CombineMesh_DiffMat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StandardSurfaceShader/surface_UnityDemo/surface01.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Edge_DepthAndNormal/Edge_Depth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bloom/Bloom.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.4.6/Editor/Manipulators/Sequence/TrimClip.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dissolve/Dissolve_Easy/Dissolve_Easy.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StandardSurfaceShader/SurfaceShader_Test01.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SyncTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Edage/Edage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Depth_Energy/Depth_Energy.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Z_May/DrawLine.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Z_May/DrawLine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Common/PerlinWorleyNoiseGenerator.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dissolve/Dissolve_Easy/Dissolve_Easy_My.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Z_may_foot/DrawMayFoot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombinMesh/CombineSource.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CombinMesh/CombineMesh01.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Fog/fog.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Z_may_foot/SnowShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Fog/fog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LightCookie/Matrix.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sync_Test.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WorldPos/worldPos.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FootPrint_JiaoYin/DrawLine.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Bloom/Bloom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Depth_Energy/Depth_Energy_Wave.shader" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Edage/Edage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Edge_DepthAndNormal/Edge_Depth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Edge_DepthAndNormal/Edge_Depth.shader" />
+        <option value="$PROJECT_DIR$/Assets/Depth_Demo/DepthDemo.cs" />
+        <option value="$PROJECT_DIR$/Assets/JingShen/JingShen.cs" />
+        <option value="$PROJECT_DIR$/Assets/JingShen_01/JinShen01.cs" />
+        <option value="$PROJECT_DIR$/Assets/Edge_ChangeColor/Edge_ChangeColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Function_Frac/projector_Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/fog_Demo/FogWithDepth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Fog/fog.cs" />
+        <option value="$PROJECT_DIR$/Assets/Fog/fog.shader" />
+        <option value="$PROJECT_DIR$/Assets/Fog/cubeMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/WorldPos/worldPos.cs" />
+        <option value="$PROJECT_DIR$/Assets/WorldPos/worldPos.shader" />
+        <option value="$PROJECT_DIR$/Assets/Noise/Noise.shader" />
+        <option value="$PROJECT_DIR$/Assets/CombinMesh/CombineMesh01.cs" />
+        <option value="$PROJECT_DIR$/Assets/CombinMesh/combineMesh.cs" />
+        <option value="$PROJECT_DIR$/Assets/CombinMesh/CombineMesh_DiffMat.cs" />
+        <option value="$PROJECT_DIR$/Assets/CombinMesh/CombineSource.cs" />
+        <option value="$PROJECT_DIR$/Assets/LightCookie/Matrix.cs" />
+        <option value="$PROJECT_DIR$/Assets/FootPrint_JiaoYin/SnowShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/FootPrint_JiaoYin/DrawLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/FootPrint_JiaoYin/DrawLine.shader" />
+        <option value="$PROJECT_DIR$/Assets/Z_May/DrawLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Z_May/DrawLine.shader" />
+        <option value="$PROJECT_DIR$/Assets/Z_may_foot/DrawMayFoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Z_may_foot/SnowShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Z_may_foot/TessellationTest.shader" />
+        <option value="$PROJECT_DIR$/Assets/Depth_Energy/Depth_Energy.shader" />
+        <option value="$PROJECT_DIR$/Assets/Common/Unit2D.cginc" />
+        <option value="$PROJECT_DIR$/Assets/Depth_Energy/Depth_Energy_Wave.shader" />
+        <option value="$PROJECT_DIR$/Assets/Dissolve/Dissolve_Easy/Dissolve_Easy_My.shader" />
+        <option value="$PROJECT_DIR$/Assets/Dissolve/SurfaceTest.shader" />
+        <option value="$PROJECT_DIR$/Assets/StandardSurfaceShader/surface_UnityDemo/surface01.shader" />
+        <option value="$PROJECT_DIR$/Assets/SyncTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/FlowMap/FlowMap_code.shader" />
+        <option value="$PROJECT_DIR$/Assets/Bloom/Bloom.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kfhXwiOofylFbnjQBYuVSfnSyU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.35018432" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30015796" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60816bf7-eae7-413d-b1bb-597949cde0c2" name="Default Changelist" comment="" />
+      <created>1606097599977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606097599977</updated>
+      <workItem from="1606097605739" duration="163000" />
+      <workItem from="1606111910814" duration="4714000" />
+      <workItem from="1606187695549" duration="5923000" />
+      <workItem from="1606360016400" duration="8294000" />
+      <workItem from="1606447658407" duration="3380000" />
+      <workItem from="1606543012907" duration="1000" />
+      <workItem from="1606726843173" duration="7435000" />
+      <workItem from="1606788986686" duration="3000" />
+      <workItem from="1606789006665" duration="2433000" />
+      <workItem from="1606794863986" duration="1448000" />
+      <workItem from="1606805048413" duration="4198000" />
+      <workItem from="1606809309092" duration="37000" />
+      <workItem from="1606809365702" duration="7599000" />
+      <workItem from="1606874911904" duration="9459000" />
+      <workItem from="1606961143085" duration="5023000" />
+      <workItem from="1606982913447" duration="1855000" />
+      <workItem from="1606987524886" duration="1286000" />
+      <workItem from="1608019488532" duration="1985000" />
+      <workItem from="1608620616175" duration="8573000" />
+      <workItem from="1608811038349" duration="3980000" />
+      <workItem from="1608863452014" duration="12516000" />
+      <workItem from="1610365849028" duration="1845000" />
+      <workItem from="1619077782847" duration="6166000" />
+      <workItem from="1619147489548" duration="2054000" />
+      <workItem from="1619353638236" duration="3732000" />
+      <workItem from="1619439557490" duration="3314000" />
+      <workItem from="1619489863951" duration="7063000" />
+      <workItem from="1619577952165" duration="1519000" />
+      <workItem from="1620270993656" duration="16139000" />
+      <workItem from="1620704402212" duration="1641000" />
+      <workItem from="1620870720850" duration="2071000" />
+      <workItem from="1620958121590" duration="1067000" />
+      <workItem from="1621035536560" duration="4064000" />
+      <workItem from="1621517454450" duration="415000" />
+      <workItem from="1621561696774" duration="1489000" />
+      <workItem from="1621648557907" duration="79000" />
+      <workItem from="1621648653261" duration="24000" />
+      <workItem from="1621648876019" duration="6088000" />
+      <workItem from="1622171347892" duration="21000" />
+      <workItem from="1622452406079" duration="728000" />
+      <workItem from="1622886848008" duration="103000" />
+      <workItem from="1637025400308" duration="2280000" />
+      <workItem from="1637652103850" duration="3706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="926" y="434" width="709" height="532" key="find.popup" timestamp="1637716899289">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="926" y="434" width="709" height="532" key="find.popup/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1637716899289" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1637716888310">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1637716888310" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/LightCookie/Matrix.cs</url>
+          <line>15</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/LightCookie/Matrix.cs" initialLine="14">
+            <startOffsets>
+              <option value="436" />
+            </startOffsets>
+            <endOffsets>
+              <option value="487" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/LightCookie/Matrix.cs</url>
+          <line>13</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/LightCookie/Matrix.cs" initialLine="13">
+            <startOffsets>
+              <option value="358" />
+            </startOffsets>
+            <endOffsets>
+              <option value="385" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/LightCookie/Matrix.cs</url>
+          <line>14</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/LightCookie/Matrix.cs" initialLine="14">
+            <startOffsets>
+              <option value="394" />
+            </startOffsets>
+            <endOffsets>
+              <option value="427" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
